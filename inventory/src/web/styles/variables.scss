@@ -1,0 +1,69 @@
+$blue-primary: #0080C7;
+$blue-secondary: #0080C780;
+$white-100: #FFFFFF;
+$white-50: #FFFFFF80;
+$white-40: #FFFFFF66;
+$white-05: #FFFFFF08;
+
+$font-primary: 'akrobat';
+$font-primary-bold: 'akrobat-bold';
+$font-primary-bolder: 'akrobat-bolder';
+$font-secondary: 'MontSerrat';
+
+
+*{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: 'akrobat-bold';
+    user-select: none;
+    font-weight: 400;
+}
+@media (max-width: 1600px){
+    html{
+        font-size: 95%
+    }
+}
+
+@media (max-width: 1440px){
+    html{
+        font-size: 70%
+        }
+}
+@media (max-width: 1366px){
+    html{
+        font-size: 68%
+    }
+}
+
+@media (max-width: 1280px){
+    html{
+        font-size: 65%
+    }
+}
+
+@font-face{
+    font-family: 'akrobat';
+    src: url('../public/assets/akrobat/Akrobat-light.otf')
+}
+@font-face{
+    font-family: 'akrobat-bold';
+    src: url('../public/assets/akrobat/Akrobat-Bold.otf')
+}
+@font-face{
+    font-family: 'akrobat-super-bold';
+    src: url('../public/assets/akrobat/Akrobat-ExtraBold.otf')
+}
+
+
+button{
+    outline: none;
+    border: 2px solid rgba(0,0,0,0);
+    border-radius: 0.3rem;
+    font-family: 'poppins';
+    cursor: pointer;
+}
+
+.audio{
+    display: none;
+}
