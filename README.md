@@ -1,4 +1,4 @@
-# 📅 **Rotina de Postagens - Semana de Divulgação**
+# 📅 **Rotina de Postagens - New Valley**
 
 ## **Segunda-feira: "Teaser da Semana"**
 
@@ -134,5 +134,3 @@
 - **Estude as métricas**: Avalie o desempenho de suas postagens para entender o que mais engaja a comunidade.
 
 ---
-
-Essa rotina de postagens vai manter sua comunidade engajada enquanto você prepara o servidor para o lançamento. Lembre-se de ajustar conforme necessário, sempre atento ao feedback e interação dos seguidores!
